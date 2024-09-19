@@ -28,11 +28,11 @@ This Stock Trading App allows users to manage their stock holdings, positions, a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sushant0124/StockTradingApp.git
+   git clone https://github.com/Sushant0124/StockFusion.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd StockTradingApp
+   cd StockFusion
    ```
 3. Install dependencies for both frontend and backend:
    ```bash
